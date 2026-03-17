@@ -48,7 +48,7 @@ We help startups, SMEs, and enterprises build future-ready digital products with
 ## Get in Touch
 
 - 💼 **Business / Project Inquiry:** [contact@technogrowth.com](mailto:contact@technogrowth.com)
-- 👩‍💼 **Careers & Internships:** [hr@technogrowth.com](mailto:hr@technogrowth.com) | [+91 92721 99145](tel:+919272199145)
+- 👩‍💼 **Careers & Internships:** [hr@technogrowth.com](mailto:hr@technogrowth.com)
 - 🌐 **Official Website:** https://technogrowth.com
 - 📍 **Location:** Pune, Maharashtra, India
 
