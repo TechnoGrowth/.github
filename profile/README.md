@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://technogrowth.com"><strong>🌐 Website</strong></a> •
-  <a href="https://technogrowth.com/services"><strong>Services</strong></a> •
   <a href="https://technogrowth.com/careers"><strong>Careers</strong></a> •
   <a href="mailto:hr@technogrowth.com"><strong>Contact</strong></a>
 </p>
